@@ -1,0 +1,204 @@
+{
+  "language": "en",
+  "locale": "en-US",
+  "prayers": {
+    "sign_of_cross": {
+      "title": "Sign of the Cross",
+      "lines": [
+        "In the name of the Father,",
+        "and of the Son,",
+        "and of the Holy Spirit.",
+        "Amen."
+      ]
+    },
+    "apostles_creed": {
+      "title": "Apostles' Creed",
+      "lines": [
+        "I believe in God, the Father almighty,",
+        "Creator of heaven and earth,",
+        "and in Jesus Christ, his only Son, our Lord,",
+        "who was conceived by the Holy Spirit,",
+        "born of the Virgin Mary,",
+        "suffered under Pontius Pilate,",
+        "was crucified, died and was buried;",
+        "he descended into hell;",
+        "on the third day he rose again from the dead;",
+        "he ascended into heaven,",
+        "and is seated at the right hand of God the Father almighty;",
+        "from there he will come to judge the living and the dead.",
+        "I believe in the Holy Spirit,",
+        "the holy catholic Church,",
+        "the communion of saints,",
+        "the forgiveness of sins,",
+        "the resurrection of the body,",
+        "and life everlasting.",
+        "Amen."
+      ]
+    },
+    "our_father": {
+      "title": "Our Father",
+      "lines": [
+        "Our Father, who art in heaven,",
+        "hallowed be thy name;",
+        "thy kingdom come,",
+        "thy will be done",
+        "on earth as it is in heaven.",
+        "Give us this day our daily bread,",
+        "and forgive us our trespasses,",
+        "as we forgive those who trespass against us;",
+        "and lead us not into temptation,",
+        "but deliver us from evil.",
+        "Amen."
+      ]
+    },
+    "hail_mary": {
+      "title": "Hail Mary",
+      "lines": [
+        "Hail Mary, full of grace,",
+        "the Lord is with thee;",
+        "blessed art thou among women,",
+        "and blessed is the fruit of thy womb, Jesus.",
+        "Holy Mary, Mother of God,",
+        "pray for us sinners,",
+        "now and at the hour of our death.",
+        "Amen."
+      ]
+    },
+    "glory_be": {
+      "title": "Glory Be",
+      "lines": [
+        "Glory be to the Father,",
+        "and to the Son,",
+        "and to the Holy Spirit.",
+        "As it was in the beginning,",
+        "is now, and ever shall be,",
+        "world without end.",
+        "Amen."
+      ]
+    },
+    "fatima_prayer": {
+      "title": "Fatima Prayer",
+      "lines": [
+        "O my Jesus, forgive us our sins,",
+        "save us from the fires of hell;",
+        "lead all souls to heaven,",
+        "especially those in most need of thy mercy.",
+        "Amen."
+      ]
+    },
+    "hail_holy_queen": {
+      "title": "Hail, Holy Queen",
+      "lines": [
+        "Hail, holy Queen, Mother of mercy,",
+        "our life, our sweetness, and our hope.",
+        "To thee do we cry, poor banished children of Eve;",
+        "to thee do we send up our sighs,",
+        "mourning and weeping in this valley of tears.",
+        "Turn, then, most gracious advocate,",
+        "thine eyes of mercy toward us;",
+        "and after this, our exile,",
+        "show unto us the blessed fruit of thy womb, Jesus.",
+        "O clement, O loving, O sweet Virgin Mary.",
+        "Pray for us, O holy Mother of God,",
+        "that we may be made worthy of the promises of Christ.",
+        "Amen."
+      ]
+    },
+    "closing_prayer": {
+      "title": "Closing Prayer",
+      "lines": [
+        "Let us pray.",
+        "O God, whose only begotten Son,",
+        "by his life, death, and resurrection,",
+        "has purchased for us the rewards of eternal life,",
+        "grant, we beseech thee,",
+        "that while meditating on these mysteries",
+        "of the most holy Rosary of the Blessed Virgin Mary,",
+        "we may imitate what they contain",
+        "and obtain what they promise,",
+        "through the same Christ our Lord.",
+        "Amen."
+      ]
+    },
+    "joyful_1": {
+      "title": "The First Joyful Mystery",
+      "lines": ["The First Joyful Mystery:", "The Annunciation."]
+    },
+    "joyful_2": {
+      "title": "The Second Joyful Mystery",
+      "lines": ["The Second Joyful Mystery:", "The Visitation."]
+    },
+    "joyful_3": {
+      "title": "The Third Joyful Mystery",
+      "lines": ["The Third Joyful Mystery:", "The Nativity of Our Lord."]
+    },
+    "joyful_4": {
+      "title": "The Fourth Joyful Mystery",
+      "lines": ["The Fourth Joyful Mystery:", "The Presentation in the Temple."]
+    },
+    "joyful_5": {
+      "title": "The Fifth Joyful Mystery",
+      "lines": ["The Fifth Joyful Mystery:", "The Finding of Jesus in the Temple."]
+    },
+    "sorrowful_1": {
+      "title": "The First Sorrowful Mystery",
+      "lines": ["The First Sorrowful Mystery:", "The Agony in the Garden."]
+    },
+    "sorrowful_2": {
+      "title": "The Second Sorrowful Mystery",
+      "lines": ["The Second Sorrowful Mystery:", "The Scourging at the Pillar."]
+    },
+    "sorrowful_3": {
+      "title": "The Third Sorrowful Mystery",
+      "lines": ["The Third Sorrowful Mystery:", "The Crowning with Thorns."]
+    },
+    "sorrowful_4": {
+      "title": "The Fourth Sorrowful Mystery",
+      "lines": ["The Fourth Sorrowful Mystery:", "The Carrying of the Cross."]
+    },
+    "sorrowful_5": {
+      "title": "The Fifth Sorrowful Mystery",
+      "lines": ["The Fifth Sorrowful Mystery:", "The Crucifixion of Our Lord."]
+    },
+    "glorious_1": {
+      "title": "The First Glorious Mystery",
+      "lines": ["The First Glorious Mystery:", "The Resurrection."]
+    },
+    "glorious_2": {
+      "title": "The Second Glorious Mystery",
+      "lines": ["The Second Glorious Mystery:", "The Ascension."]
+    },
+    "glorious_3": {
+      "title": "The Third Glorious Mystery",
+      "lines": ["The Third Glorious Mystery:", "The Descent of the Holy Spirit."]
+    },
+    "glorious_4": {
+      "title": "The Fourth Glorious Mystery",
+      "lines": ["The Fourth Glorious Mystery:", "The Assumption of Mary."]
+    },
+    "glorious_5": {
+      "title": "The Fifth Glorious Mystery",
+      "lines": ["The Fifth Glorious Mystery:", "The Coronation of the Blessed Virgin Mary."]
+    },
+    "luminous_1": {
+      "title": "The First Luminous Mystery",
+      "lines": ["The First Luminous Mystery:", "The Baptism of Jesus in the Jordan."]
+    },
+    "luminous_2": {
+      "title": "The Second Luminous Mystery",
+      "lines": ["The Second Luminous Mystery:", "The Wedding Feast at Cana."]
+    },
+    "luminous_3": {
+      "title": "The Third Luminous Mystery",
+      "lines": ["The Third Luminous Mystery:", "The Proclamation of the Kingdom of God."]
+    },
+    "luminous_4": {
+      "title": "The Fourth Luminous Mystery",
+      "lines": ["The Fourth Luminous Mystery:", "The Transfiguration."]
+    },
+    "luminous_5": {
+      "title": "The Fifth Luminous Mystery",
+      "lines": ["The Fifth Luminous Mystery:", "The Institution of the Eucharist."]
+    }
+  }
+}
